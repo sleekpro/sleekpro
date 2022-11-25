@@ -6,7 +6,7 @@ python developer
 
 I have been learning coding actively for the last 2 year, after switching careers. I started with HTML,CSS and JAVASCRIPT, but have really found passion and love for back-end development with python.
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  I'm based in Nakuru, Kenya
 * ✉️  You can contact me at [betttfelix3@gmail.com](mailto:betttfelix3@gmail.com)
 * 🧠  I'm learning DJango and Flask
 * 🤝  I'm open to collaborating on Interesting projects on python
