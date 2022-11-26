@@ -6,18 +6,16 @@ python developer
 
 I have been learning coding actively for the last 2 year, after switching careers. I started with HTML,CSS and JAVASCRIPT, but have really found passion and love for back-end development with python.
 
-* 🌍  I'm based in Nakuru, Kenya
-* ✉️  You can contact me at [betttfelix3@gmail.com](mailto:betttfelix3@gmail.com)
-* 🧠  I'm learning DJango and Flask
-* 🤝  I'm open to collaborating on Interesting projects on python
-* ⚡  I'm passionate about soccer supporting Chelsea forever!!
+* 🌍  I'm based in Nakuru, Kenya
+* ✉️  You can contact me at [betttfelix3@gmail.com](mailto:betttfelix3@gmail.com)
+* 🧠  I'm learning DJango and Flask
+* 🤝  I'm open to collaborating on Interesting projects on python
+* ⚡  I'm passionate about soccer supporting Chelsea forever!!
 
 <a href="https://www.twitter.com/flex_bett" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/flex_bett?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
 /></a>
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -37,11 +35,9 @@ src="https://img.shields.io/twitter/follow/flex_bett?logo=twitter&style=for-the-
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/sleekpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sleekpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sleekpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/flex_bett" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
